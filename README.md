@@ -1,8 +1,10 @@
 # DataHackSummit2017
 Content for Ensemble Learning session
 
+Ensemble Learning analysis was done on [Loan Prediction](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/) hackathon conducted by Analytics Vidhya.
+
 Notes:
-1. Utils.py is the custom library written very specific for Loan prediction hackathon conducted by Analytics Vidhya.
+1. Utils.py is the custom library written very specific for Loan prediction.
 2. EnsembleLearning.xlsx is the excel that is generated from code.
 3. EnsembleLearning_HackSession.xlsx is the edited document for analysis on Ensemble Learning.
 
